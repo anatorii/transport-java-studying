@@ -1,0 +1,4 @@
+package Vehicles;
+
+interface PublicVehicle {
+}
